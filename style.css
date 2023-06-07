@@ -83,7 +83,7 @@ h6 {
     --VERY-DARK-GRAYISH-BLUE: hsl(217, 19%, 35%);
     --DESATURATED-DARK-BLUE: hsl(214, 17%, 51%);
     --GRAYISH-BLUE: hsl(212, 23%, 69%);
-    --GRAYISH-BLUE-SHADOW: hsla(212, 23%, 69%, 0.2);
+    --GRAYISH-BLUE-SHADOW: hsla(212, 23%, 69%, 0.3);
     --LIGHT-GRAYISH-BLUE: hsl(210, 46%, 95%);
 
     font-family: 'Manrope', sans-serif;
